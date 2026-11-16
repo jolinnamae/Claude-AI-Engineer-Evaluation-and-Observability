@@ -1,0 +1,2 @@
+Python 3.13.0
+Linux 7d440dc2cf244946a4b533e2e9a181a6b5d9d5fa-67c9745bdd-hzmv5 6.6.97+ #1 SMP Fri Aug 22 11:53:37 UTC 2025 x86_64 GNU/Linux
